@@ -1,3 +1,3 @@
 # Face-Recognition-JavaScript
 Face and Emotion Recognition Using Face API
-![GIF SHOWCASE](https://github.com/Vashakmadze/react-ecommerce/blob/main/react-ecom-gif.gif "WEBSITE SHOWCASE")
+![GIF SHOWCASE](https://github.com/Vashakmadze/Face-Recognition-JavaScript/blob/master/faceid%20gif.gif "WEBSITE SHOWCASE")
